@@ -1,0 +1,16 @@
+{
+  "name": "insomnia-plugin-hubspot",
+  "version": "0.0.1",
+  "author": "Blake Covarrubias <blake@covarrubi.as>",
+  "description": "HubSpot HTTP API request signing for Insomnia",
+  "license": "MIT",
+  "repository": "https://github.com/blake/insomnia-plugin-hubspot",
+  "main": "index.js",
+  "insomnia": {
+    "name": "hubspot",
+    "description": "Add HubSpot API request signature via Request Hook and/or Template Tags"
+  },
+  "keywords": [
+    "insomnia-plugin"
+  ]
+}
